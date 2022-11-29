@@ -1,1 +1,27 @@
 Link para informações de markdown : https://www.markdownguide.org/basic-syntax/
+
+Comandos utilizados:
+dir  (mostra todo o conteúdo C)
+cd/  (mostra as pastas do C)
+ls   (lista todas as pastas do C)
+cd.. (volta 1 nível)
+cls  (limpa a tela)
+tecla TAB (completa o nome sem precisar digitar novamente)
+mkdir (criar arquivo)
+del  (deleta o arquivo)
+rmdir (deleta pasta)
+
+git init (inicializa o repositório)
+ls -a (mostra pasta oculta)
+git config --global user.email "digitar o email"
+git config --global user.name "digitar user name"
+git add*
+git commit -m "commit inicial"
+git status (mostra o status da pasta)
+
+
+Mover do PC para Remoto
+git add.
+git commit -m"descrição"
+git status
+git push origin main
